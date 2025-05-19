@@ -1,5 +1,5 @@
 # Customer-Support-Ticket-Analysis
-
+![image](https://github.com/SahaniNilesh/FUTURE_DS_02-Customer-Support-Ticket-Analysis-/blob/0552e8eb05a2b59af32187a079a8b1460b1ed195/Customer%20Support%20Ticket%20Analysis.ipynb)
 # About Dataset
 The Customer Support Ticket Dataset is a dataset that includes customer support tickets for various tech products. It consists of customer inquiries related to hardware issues, software bugs, network problems, account access, data loss, and other support topics. The dataset provides information about the customer, the product purchased, the ticket type, the ticket channel, the ticket status, and other relevant details.
 The dataset can be used for various analysis and modelling tasks in the customer service domain.
